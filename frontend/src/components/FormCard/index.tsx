@@ -6,7 +6,7 @@ import { BASE_URL } from 'utils/requests';
 import { Link, useNavigate } from 'react-router-dom';
 import { validateEmail } from 'utils/validate';
 type Props = {
-    movieId: string;
+    movieId: String;
 }
 function FormCard( {movieId} : Props) {
     

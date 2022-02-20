@@ -1,5 +1,5 @@
 # dsmovie
-Projeto feito com as tecnologias Java, Spring Boot e React. O projeto consiste em uma listagem de filmes com a função de avaliação, os dados da avaliação são enviados
+Projeto feito com as tecnologias Java, Spring Boot, HTML, Javascript, CSS e React. O projeto consiste em uma listagem de filmes com a função de avaliação, os dados da avaliação são enviados
 para o banco de dados feito com Postgres.
 
 
